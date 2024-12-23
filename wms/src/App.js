@@ -15,13 +15,8 @@ function App() {
         >
           Learn React
         </a>
-        rpa();
       </header>
     </div>
   );
-}
-function rpa ()
-{
-  <p>ㅎㅇㅎㅇ</p>
 }
 export default App;
